@@ -2,7 +2,7 @@
 
 This repository contains localized resource files for Apidog. Each language directory contains the localized string resources for a particular language.
 
-Translation progress for Apidog in various languages.
+Translation progress for Apidog in various languages:
 
 |Language|ISO Language Code|Translation Progress|
 |-|-|-|  
