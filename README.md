@@ -20,12 +20,10 @@ If you want to give feedback or report an issue with a translation, please creat
 
 ### Branch Format
 
-Translations should be submitted to the `i18n/{language}-{description}` branch.
+Translations should be submitted to the `i18n/{language}` branch.
 
 ```
 {language} should be replaced with the target language code, e.g. pt-BR
-
-{description} briefly describes the content being translated, e.g. tutorial
 ```
 
 Use one branch per language, do not mix multiple languages in one branch.
